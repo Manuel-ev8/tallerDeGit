@@ -1,3 +1,3 @@
 # tallerDeGit
 
-Taller "Introduccion a la Programacion" de la FCEyN - UBA.
+Taller "Introducci a la Programacion" de la FCEyN - UBA.
